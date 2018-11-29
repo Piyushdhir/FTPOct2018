@@ -5,4 +5,8 @@ Welcome to my GIT account.
 Hello guys
 Piyush is from orissa.
 Piyush
+<<<<<<< HEAD
 I am here
+=======
+jhdkjkdkj
+>>>>>>> c477da8dca959a9f136aae26661b45c6beb5bfee
